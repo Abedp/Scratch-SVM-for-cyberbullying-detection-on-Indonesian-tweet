@@ -1,1 +1,0 @@
-# Scratch-SVM-for-cyberbullying-detection-on-Indonesian-tweet
